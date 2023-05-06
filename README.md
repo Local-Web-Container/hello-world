@@ -23,4 +23,4 @@ both long and short sha works fine
 
 
 ### Installing from referer
-With a static link like: https://localwebcontainer.com/?installFrom=referrer then, we will figure out where you came from and take that specific repo / commit / pr / branch and use that
+With a static link like: https://localwebcontainer.com/?installFrom=referer then, we will figure out where you came from and take that specific repo / commit / pr / branch and use that
